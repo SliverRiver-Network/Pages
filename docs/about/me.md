@@ -17,13 +17,10 @@ sidebar_position: 1
 
 ## 我的组织
 
+- SliverRiver Network（个人组织）；
 - LittleSkin Community｜活跃成员；
 - 忆加速 Network｜群执事（恐怖分子）；
 - LGBTQIA-In-China｜成员。
-
-## 我参与的项目
-
-我的站点群系（包括主页、两个博客和本站），LittleSkin 社区机器人（以及手册）。
 
 ## 我的状况
 
