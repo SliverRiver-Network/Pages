@@ -20,7 +20,7 @@ sidebar_position: 1
 - SliverRiver Network（个人组织）；
 - LittleSkin Community｜活跃成员；
 - 忆加速 Network｜群执事（恐怖分子）；
-- LGBTQIA-In-China｜成员。
+- LGBTQIA in China｜成员。
 
 ## 我的状况
 
