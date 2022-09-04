@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Galaxy City 友链申请与交换
+# Restent's Blog 友链申请与交换
 
 来和我交换博客友链！
 
@@ -29,13 +29,13 @@ sidebar_position: 1
 
 首先，这是最重要的一步：把我的站点添加到你的友链列表里~
 
-> 标题：Galaxy City
+> 标题：Restent's Blog
 >
-> 站长昵称：Restent Ou / Galaxy R（优先选择第一个）
+> 站长昵称：Restent Ou（优先选择第一个）
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：星空耀天，灿似雪霜 | The starry sky shines brightly like snow and frost. （二选一）
+> 标语：一天又一天，一年又一年 | Day after day, year after year. （二选一）
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
@@ -44,7 +44,7 @@ sidebar_position: 1
 
 这一步做完之后，向 [i@restent.win](mailto:i@restent.win) 发一封邮件：
 
-- 标题：申请交换友链（Galaxy City）
+- 标题：申请交换友链（Restent's Blog）
 - 内容：包含站长名称、Slogan、链接、头像即可
 
 看到邮件后我会尽快添加，等待邮件回复即可。

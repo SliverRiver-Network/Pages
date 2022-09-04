@@ -3,13 +3,11 @@ title: Galaxy City
 sidebar_position: 2
 ---
 
-# 关于 Galaxy City
+# 关于 Restent's Blog
 
-介绍 Galaxy City 的一些内容。
+介绍 Restent's Blog 的一些内容。
 
 ---
-
-Galaxy City 原名 Restent's Blog，一看便知道是我自己的博客，也是我人生中的第一个博客。
 
 ## 缘起
 
