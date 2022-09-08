@@ -1,5 +1,5 @@
 ---
-title: Galaxy City
+title: Restent's Blog
 sidebar_position: 2
 ---
 
@@ -26,4 +26,4 @@ sidebar_position: 2
 
 ## 方向
 
-博客我打算是出一些自己 ~~乱造的~~ 教程以及一些心得，还有一些比较大的活动的感想。
+作为主力博客，当然是有啥经验写啥啦（

@@ -16,7 +16,7 @@ sidebar_position: 1
 - 合适的域名：
   - 我认为合适的应该是：
     - 由你本人购买的域名；
-    - 你的用户名 + 类似 github.io / js.org 这样的免费域名（比如，galaxy-r.js.org)；
+    - 你的用户名 + 类似 github.io / js.org 这样的免费域名（比如，sliverriver.js.org)；
   - 我认为不合适的域名是：
     - 类似 1n481a.coding-pages.com 这样的免费域名（没有你的标识）；
     - 非根目录域名，比如 www.restent.win/blog （特殊情况除外）；
@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：一天又一天，一年又一年 | Day after day, year after year. （二选一）
+> 标语：Forget me, and watching the shining stars. （二选一）
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >

@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://img.restent.win/me/profile/Favicon.ico',
+  favicon: 'https://img.restent.win/me/profile/SliverRiver.png',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -44,10 +44,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Galaxy Pages Archive',
+        title: '银河的页面存档站',
         logo: {
-          alt: 'Restent Favicon',
-          src: 'https://img.restent.win/me/profile/Big-Favicon.png',
+          alt: 'SliverRiver Avatar',
+          src: 'https://img.restent.win/me/profile/SliverRiver.png',
         },
         items: [
           {
