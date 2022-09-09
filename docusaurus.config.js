@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Galaxy Pages Archive',
-  tagline: '银河页面存档站',
+  tagline: 'SliverRiver Pages Archive',
   url: 'https://pages.restent.win',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '银河的页面存档站',
+        title: 'SliverRiver Pages Archive',
         logo: {
           alt: 'SliverRiver Avatar',
           src: 'https://img.restent.win/me/profile/SliverRiver.png',
