@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Galaxy Pages Archive',
+  title: 'SliverRiver Pages Archive',
   tagline: 'SliverRiver Pages Archive',
   url: 'https://pages.restent.win',
   baseUrl: '/',
