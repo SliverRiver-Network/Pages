@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：划破天际的流星 | Meteor breaking through the sky. （二选一）
+> 标语：时间会记住你可能忘记的一切 | Time will remember everything you may have forgotten. （二选一）
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
