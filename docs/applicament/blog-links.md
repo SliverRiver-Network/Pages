@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：繁星落城，漫若浮光 | The stars are falling into the city, and the light is floating. （二选一）
+> 标语：遇见你是我一生最幸运的事
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
