@@ -5,51 +5,45 @@ sidebar_position: 1
 
 # 关于我
 
-关于银河的伪详细内容。
-
----
+Everything about Restent Ou, or SliverRiver / Neko3327.
 
 ## 名称关系
 
-我的英文名有 Restent Ou、Neko3327 和 SliverRiver，它们按照时间先后排序。其中，SliverRiver 对应我目前正在使用的中文别名“银河”。
+我现在有三个英文名，默认用 Restent Ou，SliverRiver 和 Neko3327 会在特定场合下使用。
 
-Restent Ou 是我进行 网络 & 社交 活动时使用的对外英文名，Neko3327 是我在本地进行车迷活动时使用的替名。SliverRiver 则是在我没法二选一的时候使用的英文名。
+我的中文别名是银河，以此替代我的一些名字。其关联的英文名是 SliverRiver（但也改变不了我的英文名排序.JPG）。
 
-## 我在做什么
+## 活动
 
-### 写东西
+我活动于 [SliverRiver Network（我的网站群系）](https://github.com/SliverRiver-Network)、[LittleSkin Community](https://github.com/LittleSkinCommspt) 以及 [忆加速 Network](https://www.mcspeed.cn)，并为以上组织效劳.JPG
 
-我写东西多半是后面博客会发的水文，或是一些简单的 HTML / JavaScript / Python 代码。
+我大多数时间在 GitHub 上活动，你可能也能在 [Hypixel 服务器](https://www.hypixel.net) 或其他的 Minecraft 服务器看见我。
 
-目前在用的编辑器是 Visual Studio Code。
+## 喜好
 
-目前没有学习其它编程语言 / 网页语言 / 网页设计的想法。
+### 电子产品
 
-### 上网
+我的大多数时间都贡献给了电子产品（确信）。
 
-我有两种设备：
+在玩的过程中也学会了如何去修理之类的技术活。目前学会了基础的电脑维修、Linux 操作、小米手机刷机之类的杂活（）
 
-- 一是电脑，宏碁全家桶（Aspire F15 笔记本 + P209HQL 显示器），音源播放是小爱音箱 Play，键鼠是英菲克的键鼠套装；
-- 二是手机，目前手持 Redmi K30 4G + Redmi 4 Prime。
+### 流媒体
 
-多在社交平台（微信、QQ、微博）、哔哩哔哩以及 GitHub 上活动，其它我拿不准。
+一是听歌。我的听歌平台现在在网易云音乐，你可以搜索用户 RestentOvO 来查看我的喜爱歌单。
 
-### 摄影
+二是视频：
 
-这是进行车迷活动的一个必备项了。
+- 看番剧；
+- 看科技类视频；
+- 看美食类视频；
+- 看搞笑视频。
 
-对于后期内容，当然需要调教一下。我在手机上使用 Photoshop Express + Snapseed 调教，电脑则是 Photoshop 2020。
+我最喜欢的动画是《那年那兔那些事儿》，因此我的元素里含有那兔或者兔子的元素。
 
-如果有幸能接手视频项目也挺好的，软件是 Premiere Pro 2020。
+### 网站
 
-## 有什么愿望
+~~好像维护个静态网站也不怎么难吧？~~
 
-开头，我现在是在休学。
+目前我会的博客系统有 Hexo, VuePress, WordPress, Typecho，但我不能保证解决每一个问题（）
 
-比较希望能回到学校，不然天天游手好闲我可受不了。
-
-现在还是比较希望能加入一些工作室之类的，实在不行我小黄鱼上的服务类项目也可以买（
-
----
-
-不定期更新。最后修改于 2022-09-09 8:45 PM (UTC+8)
+最喜欢的网页设计语言是 MDUI 和 Bulma。
