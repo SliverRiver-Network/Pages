@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：遇见你是我一生最幸运的事
+> 标语：有始，必有终。
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
