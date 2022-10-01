@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：有始，必有终。
+> 标语：化作风吹过他的脸颊。
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
