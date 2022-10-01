@@ -35,7 +35,7 @@ sidebar_position: 1
 >
 > 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
 >
-> 标语：化作风吹过他的脸颊。
+> 标语：牵起你的手，走到天涯海角
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
