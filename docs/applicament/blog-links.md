@@ -31,11 +31,11 @@ sidebar_position: 1
 
 > 标题：Restent's Blog
 >
-> 站长昵称：Restent Ou（优先选择第一个）
+> 站长昵称：Restent Ou
 >
-> 链接：<https://www.restent.win> / <https://blog.restent.win>（二选一）
+> 链接：<https://blog.restent.win>
 >
-> 标语：牵起你的手，走到天涯海角
+> 标语：光阴流转前行，永无停歇之时
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
