@@ -1,11 +1,11 @@
 ---
-title: Restent's Blog
+title: Galaxy City
 sidebar_position: 2
 ---
 
-# 关于 Restent's Blog
+# 关于 Galaxy City
 
-介绍 Restent's Blog 的一些内容。
+介绍 Galaxy City 的一些内容。
 
 ---
 

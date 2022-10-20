@@ -1,11 +1,11 @@
 ---
-title: Neko3327's Blog
+title: Galaxy Sky
 sidebar_position: 3
 ---
 
-# 关于 Neko3327's Blog
+# 关于 Galaxy Sky
 
-介绍 Neko3327's Blog 的一些内容。
+介绍 Galaxy Sky 的一些内容。
 
 ---
 
@@ -25,4 +25,4 @@ sidebar_position: 3
 
 ## 用来做什么
 
-Neko3327's Blog 目前只打算作为我的车迷活动摄影站，也会发一些车迷活动时的一些意外和感慨（不过不会太多）。
+Galaxy Sky 目前只打算作为我的车迷活动摄影站，也会发一些车迷活动时的一些意外和感慨（不过不会太多）。

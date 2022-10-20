@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Restent's Blog 友链申请与交换
+# Galaxy City 友链申请与交换
 
 来和我交换博客友链！
 
@@ -29,7 +29,7 @@ sidebar_position: 1
 
 首先，这是最重要的一步：把我的站点添加到你的友链列表里~
 
-> 标题：Restent's Blog
+> 标题：Galaxy City
 >
 > 站长昵称：Restent Ou
 >
@@ -48,3 +48,5 @@ sidebar_position: 1
 - 内容：包含站长名称、Slogan、链接、头像即可
 
 看到邮件后我会尽快添加，等待邮件回复即可。
+
+> P.S. 我正在尝试引用外部 yml 加载友链列表，未来可能会引入。
