@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Galaxy City 友链申请与交换
+# 友链申请与交换
 
 来和我交换博客友链！
 
@@ -29,24 +29,21 @@ sidebar_position: 1
 
 首先，这是最重要的一步：把我的站点添加到你的友链列表里~
 
-> 标题：Galaxy City
+> 标题：SliverRiver's Hub / Galaxy City / Galaxy Sky
 >
-> 站长昵称：Restent Ou
+> 站长昵称：Restent Ou / SliverRiver / Neko3327（请根据场景选择）
 >
-> 链接：<https://blog.restent.win>
+> 链接：<https://www.restent.win> / <https://blog.restent.win> / <https://photos.restent.win>
 >
-> 标语：光阴流转前行，永无停歇之时
+> 标语：光阴流转前行，永无停歇之时 / 终有一天我们会再相见
 >
 > 头像：https://img.restent.win/me/profile/avatar.jpg
 >
-> Favicon：https://img.restent.win/me/profile/Favicon.ico
->> 更大的 Favicon：https://img.restent.win/me/profile/Big-Favicon.png
+> Favicon：https://img.restent.win/me/profile/favicon.png
 
 这一步做完之后，向 [i@restent.win](mailto:i@restent.win) 发一封邮件：
 
-- 标题：申请交换友链（Restent's Blog）
+- 标题：申请交换友链
 - 内容：包含站长名称、Slogan、链接、头像即可
 
 看到邮件后我会尽快添加，等待邮件回复即可。
-
-> P.S. 我正在尝试引用外部 yml 加载友链列表，未来可能会引入。

@@ -39,6 +39,6 @@ QQ 可以算是第二种很快联系我的方式（因为我没设置免打扰�
 
 > Issue 中文名为议题，你当然可以通过 GitHub Issue 来联系我。
 
-我的 Github 帐号是：[@SliverRiver123](https://github.com/SliverRiver123)。
+我的 Github 帐号是：[@SliverRiver327](https://github.com/SliverRiver327)。
 
-开启 Github Issues 请集中在 [我的个人仓库](https://github.com/SliverRiver123/SliverRiver123)，撰写内容时请直接描述，不要刻意开过多的 Issue 进行骚扰。
+开启 Github Issues 请集中在 [我的个人仓库](https://github.com/SliverRiver327/SliverRiver327)，撰写内容时请直接描述，不要刻意开过多的 Issue 进行骚扰。
