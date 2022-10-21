@@ -5,13 +5,15 @@ sidebar_position: 1
 
 # 关于我
 
-Everything about Restent Ou, or SliverRiver / Neko3327.
+Everything about myself.
 
 ## 名称
 
-我在互联网上还有 SliverRiver 和 Neko3327 这两个名称（SliverRiver 对应我的中文别名“银河”），但这两个名称分别用来做我的不同事情。
+我一共有 3 个英文名称，分别是 Restent Ou、SliverRiver 和 Neko3327；还有一个中文名称，是银河。
 
-虽然“银河”是我的唯一中文别名，但 Restent Ou 仍然作为我的主要英文名使用。
+上述三个英文名称分别用于英文名、网络 ID 和车圈名称。
+
+> P.S. 部分平台在 SliverRiver 被占用时选用 SliverRiver123，算是一个变体吧。
 
 ## 聊天
 
