@@ -16,13 +16,13 @@ sidebar_position: 4
 ## 基础要求
 
 - 站点内容：
-    - 文章多为原创，可少量转载；
-    - 没有过于敏感，比如摄政（懂的都懂）、颜色、无脑地域黑等等；
+  - 文章多为原创，可少量转载；
+  - 没有过于敏感，比如摄政（懂的都懂）、颜色、无脑地域黑等等；
 - 博客类型：独立博客，不是 CSDN、新浪博客这种类型的；
 - 域名：要求为独立域名（支持二级域名），亦或是带有身份特征的免费域名
-    - 独立域名泛指 restent.win / restent.cf 这样的、由本人持有的域名；
-    - 带有身份特征的免费域名泛指 restent.js.org 这样的、由本人完全控制的免费二级域名；
-    - 不支持的域名类似 114514.coding-pages.com 或 restent.github.io/blog（即免费域名 + 二级目录）。
+  - 独立域名泛指 restent.win / restent.cf 这样的、由本人持有的域名；
+  - 带有身份特征的免费域名泛指 restent.js.org 这样的、由本人完全控制的免费二级域名；
+  - 不支持的域名类似 114514.coding-pages.com 或 restent.github.io/blog（即免费域名 + 二级目录）。
 
 ## 如何交换
 
@@ -41,6 +41,32 @@ Slogan：光阴流转前行，永无停歇之时
 Favicon：<https://img.restent.win/me/profile/favicon.png>
 :::
 
-添加完成之后，请向 [i@restent.win](mailto:i@restent.win) 发送一封邮件。标题随意，内容请带上站长名称、链接、头像链接和 Slogan。
+添加完成之后，你有两种方法交换友链：
 
-我在看到邮件之后会在 12 小时内将你添加到我的友链列表。
+### 自助添加
+
+前往 [SliverRiver-Network/Friends](https://github.com/SliverRiver-Network/Friends) 并编辑 `linklist.json`：
+
+```json
+{
+    "nickname": "SliverRiver",
+    "avatar": "https://img.restent.win/me/profile/avatar.jpg",
+    "site": "https://blog.restent.win"
+}
+```
+
+上述是一个示例。其对应的意思是：
+
+- nickname -> 名称（个人）
+
+- avatar -> 头像（链接）
+
+- site -> 站点（链接）
+
+添加完成后请提起一个 PR，我在看到之后会审核并合并。
+
+### 邮件提醒
+
+请将你的名称、头像链接、站点链接发至 [i@restent.win](mailto:i@restent.win)。
+
+我在看到之后将会手动添加至 json 列表。
