@@ -1,6 +1,7 @@
 ---
 title: 友链申请
 sidebar_position: 4
+
 ---
 
 # 站点友链申请
@@ -39,34 +40,29 @@ Slogan：光阴流转前行，永无停歇之时
 链接：<https://blog.restent.win>
 
 Favicon：<https://img.restent.win/me/profile/favicon.png>
+
+头像：<https://img.restent.win/me/profile/avatar.jpg>
+
+P.S. Favicon 和 Avatar 均可以当作友链头像，不过我更推荐指定的 Avatar。
 :::
 
-添加完成之后，你有两种方法交换友链：
+添加完成之后，请给 [i@restent.win](mailto:i@restent.win) 发送一封邮件。标题随意，内容如下：
 
-### 自助添加
-
-前往 [SliverRiver-Network/Friends](https://github.com/SliverRiver-Network/Friends) 并编辑 `linklist.json`：
-
-```json
-{
-    "nickname": "SliverRiver",
-    "avatar": "https://img.restent.win/me/profile/avatar.jpg",
-    "site": "https://blog.restent.win"
-}
+```yaml
+SliverRiver:
+  link: https://www.restent.win
+  avatar: https://img.restent.win/me/profile/favicon.png
+  description: 追寻，光芒，救赎，命运
 ```
 
-上述是一个示例。其对应的意思是：
+上述是一个示例。其对应的内容是：
 
-- nickname -> 名称（个人）
+- SliverRiver -> 名称；
 
-- avatar -> 头像（链接）
+- link -> 链接；
 
-- site -> 站点（链接）
+- avatar -> 头像（链接）；
 
-添加完成后请提起一个 PR，我在看到之后会审核并合并。
+- description -> 描述。
 
-### 邮件提醒
-
-请将你的名称、头像链接、站点链接发至 [i@restent.win](mailto:i@restent.win)。
-
-我在看到之后将会手动添加至 json 列表。
+我在看到之后将会手动添加至 yaml 列表。
